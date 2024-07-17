@@ -14,6 +14,8 @@ target/
 
 ### IntelliJ IDEA ###
 .idea
+logs
+src/main/frontend/node_modules
 *.iws
 *.iml
 *.ipr

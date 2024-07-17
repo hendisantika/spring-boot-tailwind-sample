@@ -1,0 +1,27 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "Spring Boot Tailwind",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hendisantika/spring-boot-tailwind-sample.git"
+  },
+  "keywords": [
+    "spring",
+    "boot",
+    "tailwind"
+  ],
+  "author": "Hendi Santika",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hendisantika/spring-boot-tailwind-sample/issues"
+  },
+  "homepage": "https://github.com/hendisantika/spring-boot-tailwind-sample#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.4.6"
+  }
+}
